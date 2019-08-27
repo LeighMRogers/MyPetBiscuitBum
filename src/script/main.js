@@ -1,7 +1,7 @@
 
 //Represent your pet: Create an object that represents your pet.
 
-biscuitBum = {
+const biscuitBum = {
     name: "Biscuit",
     species: "cat",
     nicknames: ["Biscuit Bum", "Stupid Cat"],
